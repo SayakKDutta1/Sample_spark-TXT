@@ -1,24 +1,17 @@
-The names 
+ Hello,
+ 
+Sayak Kumar Dutta,
 
-"John Doe" 
+ It's a pleasure 
 
-for males, 
-"Jane Doe" 
-or 
+ to connect with you! Pursuing Data Science at Praxis is an exciting journey that opens up a world of possibilities in the realm of analytics, machine learning, and data-driven decision-making. As you delve into the intricacies of this field, you'll likely encounter a diverse range of topics, from statistical analysis to programming languages like Python and R.
 
-"Jane Roe" 
+In the dynamic landscape of data science, staying abreast of the latest trends and technologies is crucial. The field constantly evolves, offering opportunities for you to explore emerging concepts such as deep learning, natural language processing, and big data analytics.
 
+Praxis, I'm sure, provides a robust platform for both theoretical learning and hands-on experience. The practical aspects of your education will likely involve working on real-world projects, allowing you to apply your skills to solve complex problems. Collaborating with fellow students and industry professionals can further enrich your learning experience.
 
-for females, 
+As you progress through your studies, consider building a portfolio showcasing your projects and achievements. A strong portfolio is a valuable asset when entering the job market, demonstrating your practical skills and ability to apply theoretical knowledge to real-world scenarios.
 
+Remember to stay curious and proactive in seeking out additional learning opportunities. Whether it's attending workshops, participating in hackathons, or engaging in online communities, these experiences can broaden your perspective and enhance your skill set.
 
-or "Jonnie Doe" 
-
-
-and "Janie Doe" 
-
-for children, or just "Doe" non-gender-specifically are used as placeholder names for a party whose true identity is unknown or must be withheld in a legal action, case, or discussion. The names are also used to refer to acorpse or hospital patient whose identity is unknown. This practice is widely used in the United States and Canada, but is rarely used in other English-speaking countries including the United Kingdom itself, from where the use of "John Doe" in a legal context originates. The names Joe Bloggs or John Smith are used in the UK instead, as well as in Australia and New Zealand.
-
-John Doe is sometimes used to refer to a typical male in other contexts as well, in a similar manner to John Q. Public, known in Great Britain as Joe Public, John Smith or Joe Bloggs. For example, the first name listed on a form is often John Doe, along with a fictional address or other fictional information to provide an example of how to fill in the form. The name is also used frequently in popular culture, for example in the Frank Capra film Meet John Doe. John Doe was also the name of a 2002 American television series.
-
-Similarly, a child or baby whose identity is unknown may be referred to as Baby Doe. A notorious murder case in Kansas City, Missouri, referred to the baby victim as Precious Doe. Other unidentified female murder victims are Cali Doe and Princess Doe. Additional persons may be called James Doe, Judy Doe, etc. However, to avoid possible confusion, if two anonymous or unknown parties are cited in a specific case or action, the surnames Doe and Roe may be used simultaneously; for example, "John Doe v. Jane Roe". If several anonymous parties are referenced, they may simply be labelled John Doe #1, John Doe #2, etc. (the U.S. Operation Delego cited 21 (numbered) "John Doe"s) or labelled with other variants of Doe / Roe / Poe / etc. Other early alternatives such as John Stiles and Richard Miles are now rarely used, and Mary Major has been used in some American federal cases.
+Feel free to share more about your experiences, challenges, or specific areas of interest within Data Science. I'm here to assist with any questions you may have or provide guidance on your academic and professional journey. Best of luck with your studies at Praxis and your future endeavors in the fascinating field of Data Science!
